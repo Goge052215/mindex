@@ -753,11 +753,11 @@ npm run dev
 
 and open `http://localhost:3000` in your browser. You should see a beautiful sentiment analysis webapp. Try with it by typing some sentences and feel the power of Machine Learning!
 
-### Repository
+### GitHub Repository
 
 You might notice that I have omitted some code in the codeblock above. Do not panic! I have put the complete code in the repo. You can check it out by clicking the link below.
 
-[Mindex Repository](https://github.com/goge052215/mindex)
+[Mindex Repository](https://github.com/Goge052215/mindex)
 
 Just follow the guide above and the complete code in the github repo, and you will have a working sentiment analysis webapp as I shown in the group chat!
 
@@ -787,6 +787,13 @@ Why we use Vercel?
 5. Click **Deploy** and wait for the live URL.
 
 Note: If your API depends on local Python execution, host the Python model separately and call it from the Next.js API route.
+
+### More Information
+
+Here are some more resources to help you understand the concepts better. As I said, I will explain more about Vercel in the workshop after CNY.
+
+- [Vercel Documentation](https://vercel.com/docs)
+- [Next.js Documentation](https://nextjs.org/docs)
 
 ---
 
